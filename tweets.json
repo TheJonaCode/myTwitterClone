@@ -1,1 +1,53 @@
-[]
+[{
+        "by": {
+            "birth_date": "2022-03-25",
+            "email": "jonathanperez@example.com",
+            "first_name": "string",
+            "last_name": "string",
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        },
+        "content": "Tweet Update",
+        "created_at": "2022-03-24T20:25:31.248758",
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+        "updated_at": "2022-03-27 01:57:30.209000+00:00"
+    },
+    {
+        "by": {
+            "birth_date": "2022-03-27",
+            "email": "user@example.com",
+            "first_name": "string",
+            "last_name": "string",
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        },
+        "content": "Este es un tweet!",
+        "created_at": "2022-03-26 19:50:56.063126",
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+        "updated_at": "2022-03-27 01:56:34.780000+00:00"
+    },
+    {
+        "by": {
+            "birth_date": "2022-03-27",
+            "email": "user@example.com",
+            "first_name": "Jonathan",
+            "last_name": "Perez",
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        },
+        "content": "Tweeteando...",
+        "created_at": "2022-03-26 19:50:56.063126",
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+        "updated_at": "2022-03-27 01:56:34.780000+00:00"
+    },
+    {
+        "by": {
+            "birth_date": "2022-03-27",
+            "email": "user@example.com",
+            "first_name": "Jonathan",
+            "last_name": "Perez",
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        },
+        "content": "Tweet",
+        "created_at": "2022-03-26 20:18:42.122518",
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+        "updated_at": "2022-03-27 02:20:21.859000+00:00"
+    }
+]
